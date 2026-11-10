@@ -4,23 +4,23 @@ A desktop application for managing product inventory built with **WPF (Windows P
 
 ---
 
-## 🛠️ Tech Stack & Features
+## Tech Stack & Features
 
 * **Framework:** WPF (.NET / C#)
 * **Architecture:** In-Memory Data Access (Mock Service)
 * **UI Controls:** `DataGrid`, `ComboBox`, `PasswordBox`, custom layout panels
 
 ### Key Functionalities
-* 🔐 **Authentication:** Mock login system with credential verification.
-* 📦 **Product Management (CRUD):** 
+*  **Authentication:** Mock login system with credential verification.
+*  **Product Management (CRUD):** 
   * Add new products with auto-generated IDs.
   * Edit existing product details (Name, Quantity, Unit Price, Unit).
   * Delete products with user confirmation dialogs.
-* 🔍 **Search & Filter:** Instant search by Product ID or Product Name.
+*  **Search & Filter:** Instant search by Product ID or Product Name.
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 Use the following test account to log into the application:
 
@@ -30,7 +30,7 @@ Use the following test account to log into the application:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
